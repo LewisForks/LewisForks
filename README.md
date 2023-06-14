@@ -1,4 +1,4 @@
-👋 Hi, I'm Lewis. Welcome to my GitHub page!
+👋 Hi, I'm Lewis Raybould. Welcome to my GitHub page!
 
 **About Me**
 
