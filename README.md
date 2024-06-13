@@ -1,7 +1,7 @@
 # Hi there, I'm Lewis 👋
 
 ## About Me
-I'm Lewis, a software engineer apprentice from the UK with a passion for web development and gaming. Always eager to learn and improve, I'm focused on growing as a web developer. When I'm not coding, you can find me gaming.
+I'm Lewis, a Software Engineer & Data Analyst from the UK with a passion for web development and gaming. Always eager to learn and improve, I'm focused on growing as a web developer. When I'm not coding, you can find me gaming.
 
 ## Interests
 - 🎮 Gaming
@@ -47,3 +47,4 @@ I'm Lewis, a software engineer apprentice from the UK with a passion for web dev
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lewis-raybould-ba7034244)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/lewisecom)
 
+NOTE: Majority of repositories are privated, as were work for clients. Please get in touch for more.
